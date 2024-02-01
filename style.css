@@ -5,6 +5,8 @@ html, body
 {
     margin: 0px;
     background-color: #009688;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 header, footer
